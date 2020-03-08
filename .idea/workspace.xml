@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af69666d-f0d8-4ae3-b2bb-d85754640eec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/def_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/def_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLXmd1uo46beG593JDtts4cgc9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" module-name="project1" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="project1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.def_dict">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="def_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.def_dict" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.def_dict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af69666d-f0d8-4ae3-b2bb-d85754640eec" name="Default Changelist" comment="" />
+      <created>1582723008495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582723008495</updated>
+      <workItem from="1582723038583" duration="104000" />
+      <workItem from="1582723187952" duration="1576000" />
+      <workItem from="1582729609183" duration="1213000" />
+      <workItem from="1582812029227" duration="72000" />
+      <workItem from="1582812121490" duration="72000" />
+      <workItem from="1582812212186" duration="1962000" />
+      <workItem from="1582820452249" duration="5000" />
+      <workItem from="1582984343585" duration="1485000" />
+      <workItem from="1582988735068" duration="592000" />
+      <workItem from="1583072729858" duration="1279000" />
+      <workItem from="1583241137295" duration="580000" />
+      <workItem from="1583416821898" duration="3218000" />
+      <workItem from="1583505576257" duration="159000" />
+      <workItem from="1583505759945" duration="219000" />
+      <workItem from="1583506066430" duration="383000" />
+      <workItem from="1583677412204" duration="3620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582730552104">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582730552104" />
+    <state x="748" y="274" key="FileChooserDialogImpl" timestamp="1582723266509">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="748" y="274" key="FileChooserDialogImpl/0.23.1920.977@0.23.1920.977" timestamp="1582723266509" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1583680883442">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583680883442" />
+    <state width="1358" height="295" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583078573467" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1583680883441">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583680883441" />
+    <state width="1358" height="295" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583078573466" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1583680883440">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583680883440" />
+    <state width="1358" height="295" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583078573465" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1583680883441">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583680883441" />
+    <state width="1358" height="295" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583078573466" />
+    <state x="787" y="163" key="SettingsEditor" timestamp="1582729955441">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="787" y="163" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1582729955441" />
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1582723194063">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.23.1920.977@0.23.1920.977" timestamp="1582723194063" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project1$def_dict.coverage" NAME="def_dict Coverage Results" MODIFIED="1583680883429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$Unnamed.coverage" NAME="test Coverage Results" MODIFIED="1582730772441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$test.coverage" NAME="test Coverage Results" MODIFIED="1583425196402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
