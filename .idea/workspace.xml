@@ -49,7 +49,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.recur">
+  <component name="RunManager" selected="Python.do_slice">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +86,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="do_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_slice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,9 +165,11 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.def_dict" />
       <item itemvalue="Python.recur" />
+      <item itemvalue="Python.do_slice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.do_slice" />
         <item itemvalue="Python.recur" />
         <item itemvalue="Python.def_dict" />
       </list>
@@ -177,7 +201,7 @@
       <workItem from="1583505759945" duration="219000" />
       <workItem from="1583506066430" duration="383000" />
       <workItem from="1583677412204" duration="3849000" />
-      <workItem from="1583847370061" duration="291000" />
+      <workItem from="1583847370061" duration="4121000" />
     </task>
     <servers />
   </component>
@@ -193,25 +217,25 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="748" y="274" key="FileChooserDialogImpl/0.23.1920.977@0.23.1920.977" timestamp="1582723266509" />
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1583847840564">
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1583853592787">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583847840564" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583853592787" />
     <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583687831874" />
-    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1583847840562">
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1583853592785">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583847840562" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583853592785" />
     <state width="1878" height="358" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583687831873" />
-    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1583847840562">
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1583853592784">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583847840562" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583853592784" />
     <state width="1878" height="358" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583687831872" />
-    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1583847840563">
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1583853592786">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583847840563" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583853592786" />
     <state width="1878" height="358" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583687831873" />
     <state x="787" y="163" key="SettingsEditor" timestamp="1582729955441">
       <screen x="0" y="23" width="1920" height="977" />
@@ -223,6 +247,7 @@
     <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.23.1920.977@0.23.1920.977" timestamp="1582723194063" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project1$do_slice.coverage" NAME="do_slice Coverage Results" MODIFIED="1583853592773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project1$def_dict.coverage" NAME="def_dict Coverage Results" MODIFIED="1583680883429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project1$Unnamed.coverage" NAME="test Coverage Results" MODIFIED="1582730772441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project1$test.coverage" NAME="test Coverage Results" MODIFIED="1583425196402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
