@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af69666d-f0d8-4ae3-b2bb-d85754640eec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="af69666d-f0d8-4ae3-b2bb-d85754640eec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +199,7 @@
       <workItem from="1583505759945" duration="219000" />
       <workItem from="1583506066430" duration="383000" />
       <workItem from="1583677412204" duration="3849000" />
-      <workItem from="1583847370061" duration="4412000" />
+      <workItem from="1583847370061" duration="4589000" />
     </task>
     <servers />
   </component>
@@ -217,26 +215,26 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="748" y="274" key="FileChooserDialogImpl/0.23.1920.977@0.23.1920.977" timestamp="1582723266509" />
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1583853679130">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1583853995308">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583853679130" />
-    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583687831874" />
-    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1583853679128">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1583853995308" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1583853995306">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583853679128" />
-    <state width="1878" height="358" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583687831873" />
-    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1583853679125">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1583853995306" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1583853995304">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583853679125" />
-    <state width="1878" height="358" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583687831872" />
-    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1583853679129">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1583853995304" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1583853995307">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583853679129" />
-    <state width="1878" height="358" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583687831873" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1583853995307" />
     <state x="787" y="163" key="SettingsEditor" timestamp="1582729955441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
