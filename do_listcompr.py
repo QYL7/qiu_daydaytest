@@ -33,3 +33,20 @@
 # dict2 = [k + '=' + v for k, v in dict1.items()]
 # print(dict2)
 
+#把一个list中所有的字符串变成小写
+# L=['MIKE','LILY','JACK']
+# L1=[i.lower() for i in L]
+# print(L1)
+
+#列表表达式中的if--else
+#在for后面的if是一个筛选条件，不能带else
+# L=[i*i for i in range(1,11) if i%2==0]
+# print(L)
+#把if写在for前面必须加else
+# L=[x*x if x%2==0 else -x for x in range(1,11)]
+# print(L) # [-1, 4, -3, 16, -5, 36, -7, 64, -9, 100]
+
+#练习
+# print(isinstance('abc',str)) #True
+# print(isinstance(35,str)) #False
+
