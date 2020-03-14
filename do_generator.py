@@ -45,13 +45,23 @@
 #         print('Generator return value:', e.value)
 #         break
 
-# test 杨辉三角
-def triangles():
-    L = [1]
-    while True:
-        yield L
-        L.append(0)  # 想一想还是觉得很巧妙呀，在最后一个加上0，不管是第一个数或是最后一个数都是1+0
-        L = [L[i - 1] + L[i] for i in range(len(L))]
+#九九乘法表
+def table9_9(max=9):
+    n=1
+    while(n<=9):
+        N=['{}*{}={}'.format(i,n,i*n) for i in range(1,n+1)]
+        n=n+1
+        yield N
+T=table9_9()
+for t in T:
+    print(t)
+# # test 杨辉三角
+# def triangles():
+#     L = [1]
+#     while True:
+#         yield L
+#         L.append(0)  # 想一想还是觉得很巧妙呀，在最后一个加上0，不管是第一个数或是最后一个数都是1+0
+#         L = [L[i - 1] + L[i] for i in range(len(L))]
 
 
 
