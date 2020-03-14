@@ -25,7 +25,7 @@
 #
 # fib(10)
 
-# 要把fib函数变成generator，只需要把print(b)改为yield b
+# 1.要把fib函数变成generator，只需要把print(b)改为yield b
 # def fib(x):
 #     n, a, b = 0, 0, 1
 #     while n < x:
@@ -36,6 +36,25 @@
 #
 #
 # f = fib(10)
+# for i in f:
+#     print(i)
+
+
+# 2.按照列表打印
+# def fib(x):
+#     i, a, b = 0, 0, 1
+#     fib_list = []
+#     while (i < x):
+#         fib_list.append(b)
+#         yield fib_list
+#         a, b = b, a + b
+#         i = i + 1
+#
+#
+# f = fib(10)
+# for n in f:
+#     print(n)
+
 # while True:  # 用for循环调用generator时，发现拿不到generator的return语句的返回值。如果想要拿到返回值，必须捕获StopIteration错误，返回值包含在StopIteration
 #     # 的value中：
 #     try:
@@ -45,23 +64,46 @@
 #         print('Generator return value:', e.value)
 #         break
 
-#九九乘法表
-def table9_9(max=9):
-    n=1
-    while(n<=9):
-        N=['{}*{}={}'.format(i,n,i*n) for i in range(1,n+1)]
-        n=n+1
-        yield N
-T=table9_9()
-for t in T:
-    print(t)
-# # test 杨辉三角
+# 九九乘法表
+# def table9_9(max=9):
+#     n = 1
+#     while (n <= 9):
+#         N = ['{}*{}={}'.format(i, n, i * n) for i in range(1, n + 1)]
+#         n = n + 1
+#         yield N
+#
+#
+# T = table9_9()
+# for t in T:
+#     print(t)
+
+
+# # test 杨辉三角：
+# 方法1：
+# def triangle(max):
+#     N = [1]
+#     n = 0
+#     while n < max:
+#         yield N
+#         N.append(0)  #N[0]=1
+#         N = [N[i - 1] + N[i] for i in range(len(N))]
+#         n += 1
+#
+#
+# for t in triangle(10):
+#     print(t)
+
+# 方法2：
 # def triangles():
-#     L = [1]
+#     p = [1]
 #     while True:
-#         yield L
-#         L.append(0)  # 想一想还是觉得很巧妙呀，在最后一个加上0，不管是第一个数或是最后一个数都是1+0
-#         L = [L[i - 1] + L[i] for i in range(len(L))]
-
-
-
+#         yield p  # generator函数与普通函数的差别：在执行过程中，遇到yield就中断，下次又继续执行
+#         p = [1] + [p[i] + p[i + 1] for i in range(len(p) - 1)] + [1]
+#
+#
+# n = 0
+# for t in triangles():
+#     print(t)
+#     n = n + 1
+#     if n == 10:
+#         break
