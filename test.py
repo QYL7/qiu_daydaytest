@@ -49,3 +49,16 @@
 # print(s1&s2)
 # print(s1|s2)
 
+#求一个列表里和等于10的个数
+# list=[2,8,1,3,4,9,6,7]
+# count=0
+# for i in range(len(list)-1):
+#    # print(i)
+#     for j in range(i+1,len(list)):
+#       #  print(j)
+#         if list[i]+list[j]==10:
+#             print(i,j)
+#             count=count+1
+# print(count)
+
+
