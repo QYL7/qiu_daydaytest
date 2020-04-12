@@ -61,4 +61,13 @@
 #             count=count+1
 # print(count)
 
+#字符串求差集 a-b
+# a='abdghh34'
+# b='12dfghh'
+# for i in a:
+#     for j in b:
+#         if i==j:
+#             a=a.replace(i,'')
+# print(a)
+
 
